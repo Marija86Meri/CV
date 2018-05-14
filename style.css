@@ -1,0 +1,60 @@
+.lista {
+	background-color: silver;
+	border: 5px solid green;
+	margin: 5px;
+	padding: 25px;
+	width:250px;
+	list-style-type: none;
+}
+body {
+	background-image:url("http://wallpapercave.com/wp/Ti6qoP7.jpg");
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+	position: relative;
+	margin: 0;
+}
+.overlay {
+	position: absolute;
+	background: linear-gradient(to bottom, rgba(5,55,64,1) 0%, 
+	rgba(5,55,64,0.6) 100%);
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+.boja {
+	position: relative;
+}
+font-family: { 'Pangolin', cursive;
+}
+#Italija {
+	font-style: italic;
+}
+p {
+	color: white;
+}
+.boldText {
+	font-weight: bold;
+}
+.addBorder {
+	border: 3px Dashed;
+	width: 100px;
+}
+.zolta {
+	color: white;;
+}
+.zelenko {
+	color: white;
+}
+ul {
+	list-style-type: square;
+}
+.deeppurple{
+	color: white;
+}
+h1, h2 {
+	text-shadow: 1px 1px red;
+}
+p {
+	padding-left: 2%;
+}
