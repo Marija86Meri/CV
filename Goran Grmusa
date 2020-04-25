@@ -1,0 +1,63 @@
+<!doctype HTML>
+<HTML>
+<head>
+<title>CV</title>
+<link href="https://fonts.googleapis.com/css?family=Pangolin" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta charset="UTF-8">
+</head>
+<body>
+	<div class="overlay"> </div>
+		<div class="boja">
+<h1>CURRICULUM VITAE</h1>
+<h2>Personal details</h2>
+<img src="meri" align="right" width="350">
+<ul class="lista">
+	<div><li>Goran Grmusa</li>
+	<li>Maksima Gorkog 37,<br>
+     22320 Indjija, Serbia</li>
+ 	<li> <a href="callto:+381600556059">+381600556059</a></li>
+ 	<li><a href="mailto:goran81grmusa@gmail.com">goran81grmusa@gmail.com</a></li>
+ 	<li><a href="https://www.linkedin.com/in/goran-grmusa/"target="_blank">Linkedin</a></li></div>
+</ul>
+ <h2>Work experience</h2>
+ <ul class="zolta">
+  	<li>2002-2017 Executive assistant at Ministry of Defence of the Republic of Serbia</li>
+ 	<li>2004-2006 Restaurant owner at Crazy House fast food restaurant</li>
+ 	<li>2018-present Entrepreneur/Freelancer</li>
+ </ul>
+ <p>Job position:Virtual Assistant/Project Manager</p>
+ <p>All of my work experiences have involved working within a team-based culture<br> This involved planning, organization, coordination, and commitment</p>
+<h2>Education and qualifications </h2>
+<ol class="zolta">
+	<li>1996-1998 <span id="Italija">High School "Mihajlo Pupin"</span></li>
+  	<li>2001-2002 <span id="Italija">Military High School</span></li>
+	<li>2006-2009 <span id="Italija">College of Engineering "Tehnikum Taurunum", environmental protection/Fire protection</span></li>
+</ol>
+<h2>Interests and achievements </h2>
+<ul class="zolta">
+	<li>Playing guitar, performed on the national TV</li>
+	<li>Proud to be a father and a husband</li>
+</ul>
+<h2>Skills</h2>
+<ul class="deeppurple">
+ 	<li>Basic course for HTML5 and CSS</li>
+  <li>Adaptability and flexibility</li>
+ 	<li>ECDL</li>
+  <li>Currently taking part in the project management course at http://www.obukeikursevi.com/</li>
+ </ul>
+ <h2>Languages</h2>
+ <ul class="zelenko">
+ 	<li>Serbian</li>
+ 	<li>English</li>
+ 	<li>Croatian</li>
+ 	<li>Bosnian</li>
+ 	<li>Montenegrin</li>
+ </ul>
+ <h2>Driving Licence</h2>
+ <ul class="zelenko">
+ 	<li>B and C category</li>
+ </ul>
+ </div>
+</body>
+</HTML>
